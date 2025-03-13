@@ -1,0 +1,91 @@
+Reporte de Caso Clínico
+Paciente: María González
+
+Edad: 52 años
+
+Género: Femenino
+
+Motivo de Consulta: Fatiga persistente, aumento de la sed y visión borrosa en los últimos meses.
+
+Antecedentes Médicos:
+Sobrepeso (IMC: 29.5 kg/m²).
+Madre con diagnóstico de Diabetes Mellitus Tipo 2.
+Episodios previos de hiperglucemia detectados en controles de rutina.
+No antecedentes de hipertensión arterial o enfermedad cardiovascular.
+Sedentarismo con actividad física mínima.
+
+Síntomas Actuales:
+Fatiga crónica y falta de energía.
+Polidipsia (aumento de la sed) y poliuria (aumento de la frecuencia urinaria).
+Visión borrosa intermitente.
+Pérdida de peso de aproximadamente 4 kg en los últimos 3 meses sin cambios en la dieta.
+Episodios ocasionales de hormigueo en los pies.
+
+Examen Físico:
+Presión Arterial: 138/85 mmHg.
+Frecuencia Cardíaca: 78 lpm.
+Peso: 82 kg.
+IMC: 29.5 kg/m² (Sobrepeso).
+Exploración Neurológica: Sensibilidad disminuida en ambos pies en prueba con monofilamento.
+
+Pruebas de Laboratorio:
+
+Prueba
+Resultado
+Valor Normal
+Glucosa en ayunas
+146 mg/dL
+< 100 mg/dL
+HbA1c
+7.3%
+< 5.7%
+Glucosuria
+Positiva
+Negativa
+Insulina en ayunas
+Elevada
+Normal
+Colesterol Total
+210 mg/dL
+< 200 mg/dL
+HDL
+42 mg/dL
+> 50 mg/dL (mujeres)
+LDL
+135 mg/dL
+< 100 mg/dL
+Triglicéridos
+180 mg/dL
+< 150 mg/dL
+
+Observaciones:
+Paciente con criterios diagnósticos para Diabetes Mellitus Tipo 2 según los valores de glucosa en ayunas ≥126 mg/dL y HbA1c ≥6.5%.
+Riesgo aumentado de complicaciones microvasculares (neuropatía periférica en evaluación).
+Dislipidemia leve con elevación de LDL y triglicéridos.
+Se recomienda iniciar medidas terapéuticas para control glucémico y de factores de riesgo cardiovascular.
+
+Tratamiento Actual:
+💊 Manejo Farmacológico:
+
+Metformina 500 mg cada 12 horas, con ajuste progresivo según tolerancia.
+Estatina (Atorvastatina 10 mg/día) para reducción del colesterol LDL.
+Aspirina 81 mg/día (consideración en pacientes con alto riesgo cardiovascular).
+
+🏃 Modificaciones en el Estilo de Vida:
+
+Dieta baja en carbohidratos refinados y grasas saturadas.
+Aumento progresivo de actividad física (caminar 30 min/día).
+Monitoreo domiciliario de glucosa capilar.
+
+Plan de Seguimiento:
+📌 Consulta de seguimiento en 3 meses con evaluación de:
+
+Glucosa y HbA1c para monitoreo del control metabólico.
+Evaluación de neuropatía con monofilamento y prueba de sensibilidad vibratoria.
+Modificación del tratamiento si no se logra control adecuado de la glicemia.
+
+Comentarios del Médico:
+🩺 "La paciente presenta Diabetes Mellitus Tipo 2 recién diagnosticada, con signos tempranos de neuropatía periférica y dislipidemia leve. Se inicia tratamiento con metformina y estatinas, enfatizando cambios en el estilo de vida. Se recomienda un enfoque multidisciplinario para optimizar el control metabólico y prevenir complicaciones a largo plazo."
+📆 Médico Tratante: Dr. Juan Pérez, Endocrinólogo.
+
+📅 Fecha: 26 de febrero de 2025.

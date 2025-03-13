@@ -1,0 +1,64 @@
+Clinical Case Report
+Patient: María González
+
+Age: 52 years
+
+Gender: Female
+
+Reason for Consultation:
+Persistent fatigue, increased thirst, and blurred vision over the past few months.
+Medical History:
+Overweight with a BMI of 29.5 kg/m².
+Family history of Type 2 Diabetes Mellitus (mother diagnosed).
+Previous episodes of hyperglycemia detected during routine check-ups.
+No history of hypertension or cardiovascular disease.
+Sedentary lifestyle with minimal physical activity.
+Current Symptoms:
+Chronic fatigue and lack of energy.
+Increased thirst (polydipsia) and frequent urination (polyuria).
+Intermittent blurred vision.
+Unintentional weight loss of approximately 4 kg (8.8 lbs) over the past three months without dietary changes.
+Occasional tingling sensation in the feet.
+Physical Examination:
+Blood pressure: 138/85 mmHg.
+Heart rate: 78 bpm.
+Weight: 82 kg (180.7 lbs).
+BMI: 29.5 kg/m², classified as overweight.
+Neurological assessment: Decreased sensation in both feet on monofilament test.
+Laboratory Tests:
+Fasting glucose: 146 mg/dL (normal: <100 mg/dL).
+HbA1c: 7.3% (normal: <5.7%).
+Glucosuria: Positive (normal: negative).
+Fasting insulin: Elevated (normal range).
+Total cholesterol: 210 mg/dL (normal: <200 mg/dL).
+HDL cholesterol: 42 mg/dL (normal: >50 mg/dL for women).
+LDL cholesterol: 135 mg/dL (normal: <100 mg/dL).
+Triglycerides: 180 mg/dL (normal: <150 mg/dL).
+Observations:
+The patient meets the diagnostic criteria for Type 2 Diabetes Mellitus, as fasting glucose is ≥126 mg/dL and HbA1c is ≥6.5%.
+There is an increased risk of microvascular complications, including early signs of peripheral neuropathy.
+Mild dyslipidemia with elevated LDL cholesterol and triglycerides.
+Therapeutic interventions are recommended for glycemic control and cardiovascular risk reduction.
+Current Treatment:
+💊 Pharmacological Management:
+
+Metformin 500 mg every 12 hours, with gradual dose adjustment based on tolerance.
+Atorvastatin 10 mg/day to reduce LDL cholesterol levels.
+Aspirin 81 mg/day (considered for high cardiovascular risk patients).
+🏃 Lifestyle Modifications:
+
+Low-carbohydrate and low-saturated fat diet.
+Gradual increase in physical activity (walking 30 minutes per day).
+Home monitoring of capillary glucose levels.
+Follow-up Plan:
+Follow-up consultation in three months to assess metabolic control.
+Re-evaluation of fasting glucose and HbA1c levels.
+Neuropathy screening using monofilament and vibratory sensitivity tests.
+Adjustment of treatment if glycemic control is not achieved.
+Physician’s Comments:
+🩺 "The patient presents with newly diagnosed Type 2 Diabetes Mellitus, with early signs of peripheral neuropathy and mild dyslipidemia. Treatment is initiated with metformin and statins, emphasizing lifestyle modifications. A multidisciplinary approach is recommended to optimize metabolic control and prevent long-term complications."
+
+📆 Treating Physician: Dr. Juan Pérez, Endocrinologist.
+
+📅 Date: February 26, 2025.
+
